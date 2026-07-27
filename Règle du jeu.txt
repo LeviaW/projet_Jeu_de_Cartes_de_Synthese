@@ -1,0 +1,21 @@
+1. Pour commencer, chaque joueur lance d'abord les deux dés. Celui ou celle qui obtient le score le plus élevé devient le « Juge de Nature » pour cette partie. Il ou elle prend le carnet « Règles de Nature ». Chaque fois qu'un joueur tente une fabrication, le juge consulte le carnet et lui indique si cette tentative fonctionne ou non.
+
+2. Ensuite, tous les joueurs lancent encore une fois les deux dés. Celui ou celle qui obtient le score le plus élevé commence la partie. Les autres jouent ensuite dans le sens des aiguilles d'une montre. Si deux joueurs ou plus obtiennent le même score le plus élevé, ils relancent les dés jusqu'à ce qu'un seul joueur obtienne le score le plus élevé.
+
+3. Piochez un nombre de cartes d'événement égal au nombre de joueurs + 1. Placez ces cartes au centre de la table, face cachée.
+
+4. Piochez 1 carte de gloire et placez cette carte au centre de la table, face visible.
+
+5. Chaque joueur prend ensuite 2 pions de bois et 2 pions de feu. Mélangez toutes les cartes de ressources restantes. Chaque joueur pioche ensuite 8 cartes de ressources au hasard.
+
+6. À chaque tour, chaque joueur peut effectuer jusqu'à 2 actions parmi les actions suivantes :
+
+• Fabriquer : le joueur utilise 2 cartes de ressources pour composer 1 carte de produit, ou utilise des cartes de produits pour composer 1 carte d'invention. Lorsqu'un joueur tente pour la première fois de composer une nouvelle carte, il peut demander au Juge de Nature : « Est-ce que ces cartes peuvent former quelque chose de nouveau ? » Attention : cette étape est irréversible, quel que soit le résultat obtenu par le joueur.
+
+• Attaquer : le joueur peut utiliser 1 carte d'événement.
+
+7. À la fin de son tour, chaque joueur pioche 1 carte de ressource et prend soit 1 pion de bois, soit 1 pion de feu.
+
+8. Chaque fois qu'un joueur fabrique une carte d'invention, il pioche 1 carte d'événement.
+
+9. Le premier joueur qui compose la carte de gloire gagne la partie.
